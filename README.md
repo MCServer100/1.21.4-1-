@@ -2,8 +2,7 @@ Create New Codespace
 then do 
 Sudo apt update
 Sudo apt upgrade
-
-then run 
+adhen run 
 java -Xmx8G -Xms4G -jar paper.jar --nogui
 
 then open new terminal and run

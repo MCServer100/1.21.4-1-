@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "64732d05-7baa-3c4b-a9de-7f435a2db06e",
+    "name": "eyadc23",
+    "created": "2025-07-02 19:57:46 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
